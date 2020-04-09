@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chin/CLionProjects/2/factory.cpp
+factory.h
+/Users/chin/CLionProjects/2/factory.h
+iostream
+-
+iomanip
+-
+
+/Users/chin/CLionProjects/2/factory.h
+materials.h
+/Users/chin/CLionProjects/2/materials.h
+mask.h
+/Users/chin/CLionProjects/2/mask.h
+
+/Users/chin/CLionProjects/2/main.cpp
+iostream
+-
+factory.h
+/Users/chin/CLionProjects/2/factory.h
+
+/Users/chin/CLionProjects/2/mask.cpp
+mask.h
+/Users/chin/CLionProjects/2/mask.h
+iostream
+-
+
+/Users/chin/CLionProjects/2/mask.h
+materials.h
+/Users/chin/CLionProjects/2/materials.h
+
+/Users/chin/CLionProjects/2/materials.h
+
