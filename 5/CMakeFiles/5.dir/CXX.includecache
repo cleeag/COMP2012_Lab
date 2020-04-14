@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chin/CLionProjects/COMP2012_Lab/5/organization.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/5/regionx.cpp
+iostream
+-
+cstring
+-
+regionx.h
+/Users/chin/CLionProjects/COMP2012_Lab/5/regionx.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/5/regionx.h
+organization.h
+/Users/chin/CLionProjects/COMP2012_Lab/5/organization.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/5/regiony.cpp
+iostream
+-
+cstring
+-
+regiony.h
+/Users/chin/CLionProjects/COMP2012_Lab/5/regiony.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/5/regiony.h
+organization.h
+/Users/chin/CLionProjects/COMP2012_Lab/5/organization.h
+
