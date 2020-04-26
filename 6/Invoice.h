@@ -23,7 +23,7 @@ public:
 	~Invoice();
 
 	//Todo: Declare the print function here
-	
+	void print() const;
 
 	void createTransaction(int _qty);
 

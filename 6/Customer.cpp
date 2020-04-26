@@ -16,13 +16,13 @@ string Customer::getEmail() const {
 float Customer::getDiscount() const {
     if (discount > 1 or discount < 0) return -1;
     else {
-        cout << discount << endl;
+        cout << "Customer Discount: " << discount << endl;
         return discount;
     }
 }
 
 //Todo: implement the print function to output the customer data as same as result
 void Customer::print() const {
-    cout << "Customer: " << getID() << " | " << getName() << " | Email: " << email << " | Discount: ";
-    getDiscount();
+    cout << "Customer: " << getID() << " | " << getName() << " | Email: " << email << " | Discount: " << discount
+         << endl;
 }

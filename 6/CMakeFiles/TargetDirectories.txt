@@ -1,0 +1,3 @@
+/Users/chin/CLionProjects/COMP2012_Lab/6/CMakeFiles/rebuild_cache.dir
+/Users/chin/CLionProjects/COMP2012_Lab/6/CMakeFiles/edit_cache.dir
+/Users/chin/CLionProjects/COMP2012_Lab/6/CMakeFiles/6.dir

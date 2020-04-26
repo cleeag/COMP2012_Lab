@@ -11,5 +11,5 @@ Salesman::~Salesman() {
 
 //Todo: implement the print function to output the Salesman data as same as result
 void Salesman::print() const {
-    cout << "Customer: " << getID() << " | " << getName() << endl;
+    cout << "Salesman: " << getID() << " | " << getName() << endl;
 }

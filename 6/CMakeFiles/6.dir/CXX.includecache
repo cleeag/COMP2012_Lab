@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chin/CLionProjects/COMP2012_Lab/6/Customer.h
+Person.h
+/Users/chin/CLionProjects/COMP2012_Lab/6/Person.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/6/Invoice.cpp
+Invoice.h
+/Users/chin/CLionProjects/COMP2012_Lab/6/Invoice.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/6/Invoice.h
+iostream
+-
+string
+-
+Customer.h
+/Users/chin/CLionProjects/COMP2012_Lab/6/Customer.h
+Salesman.h
+/Users/chin/CLionProjects/COMP2012_Lab/6/Salesman.h
+Product.h
+/Users/chin/CLionProjects/COMP2012_Lab/6/Product.h
+
+/Users/chin/CLionProjects/COMP2012_Lab/6/Person.h
+iostream
+-
+
+/Users/chin/CLionProjects/COMP2012_Lab/6/Product.h
+iostream
+-
+
+/Users/chin/CLionProjects/COMP2012_Lab/6/Salesman.h
+Person.h
+/Users/chin/CLionProjects/COMP2012_Lab/6/Person.h
+
